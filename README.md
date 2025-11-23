@@ -50,6 +50,3 @@ TESTING INSTRUCTION
 
 
 
-text
-python -m unittest discover tests
-Review output for pass/fail results.
